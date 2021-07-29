@@ -1,0 +1,15 @@
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.deps.json
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.pdb
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.csprojAssemblyReference.cache
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.AssemblyInfoInputs.cache
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.AssemblyInfo.cs
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.csproj.CoreCompileInputs.cache
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.csproj.CopyComplete
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.Notifications.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Notifications\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Notifications.pdb

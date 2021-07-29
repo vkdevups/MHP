@@ -1,0 +1,12 @@
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.deps.json
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.AssemblyInfoInputs.cache
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.AssemblyInfo.cs
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.csproj.CoreCompileInputs.cache
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Dependency.Inquiry.dll
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.pdb
+C:\Users\vk\source\repos\MHP\Backend\dependency-dotnet\MHP.CodingChallenge.Backend.Dependency.Inquiry\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Dependency.Inquiry.csprojAssemblyReference.cache
